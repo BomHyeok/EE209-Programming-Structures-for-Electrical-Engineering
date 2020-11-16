@@ -1,0 +1,10 @@
+임범혁 / 20140475 / Assignment 1
+
+I've done assignment 1 alone without any collaboration.
+
+registering of one using hash table is faster than of one using array
+unregistering of one using array is faster than of one using hash table
+
+I didn't implement hash table expansion
+
+[TOKEN=3]
